@@ -1,0 +1,12 @@
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\bin\x64\Release\iresearchDownloader.exe.config
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\bin\x64\Release\iresearchDownloader.exe
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\bin\x64\Release\iresearchDownloader.pdb
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\bin\x64\Release\iresearchDownloader.xml
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\obj\x64\Release\iresearchDownloader.vbprojAssemblyReference.cache
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\obj\x64\Release\iresearchDownloader.Form1.resources
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\obj\x64\Release\iresearchDownloader.Resources.resources
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\obj\x64\Release\iresearchDownloader.vbproj.GenerateResource.cache
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\obj\x64\Release\iresearchDownloader.vbproj.CoreCompileInputs.cache
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\obj\x64\Release\iresearchDownloader.exe
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\obj\x64\Release\iresearchDownloader.xml
+D:\Downloads\ADLauncher-master\source\GameADLauncher\iresearchDownloader\obj\x64\Release\iresearchDownloader.pdb
